@@ -1,0 +1,17 @@
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.Form1.resources
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.csproj.GenerateResource.cache
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\bin\Debug\net6.0-windows\draw_rectangle.exe
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\bin\Debug\net6.0-windows\draw_rectangle.deps.json
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\bin\Debug\net6.0-windows\draw_rectangle.runtimeconfig.json
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\bin\Debug\net6.0-windows\draw_rectangle.dll
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\bin\Debug\net6.0-windows\draw_rectangle.pdb
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.dll
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\refint\draw_rectangle.dll
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.pdb
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\draw_rectangle.genruntimeconfig.cache
+C:\Users\Huseyn\source\repos\WinForms-practics\draw_rectangle\obj\Debug\net6.0-windows\ref\draw_rectangle.dll

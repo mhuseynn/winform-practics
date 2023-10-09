@@ -1,0 +1,17 @@
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.Form1.resources
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.csproj.GenerateResource.cache
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\WinFormPractics\label\bin\Debug\net6.0-windows\label.exe
+C:\Users\Huseyn\source\repos\WinFormPractics\label\bin\Debug\net6.0-windows\label.deps.json
+C:\Users\Huseyn\source\repos\WinFormPractics\label\bin\Debug\net6.0-windows\label.runtimeconfig.json
+C:\Users\Huseyn\source\repos\WinFormPractics\label\bin\Debug\net6.0-windows\label.dll
+C:\Users\Huseyn\source\repos\WinFormPractics\label\bin\Debug\net6.0-windows\label.pdb
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.dll
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\refint\label.dll
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.pdb
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\label.genruntimeconfig.cache
+C:\Users\Huseyn\source\repos\WinFormPractics\label\obj\Debug\net6.0-windows\ref\label.dll
